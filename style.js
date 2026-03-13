@@ -4,32 +4,39 @@ Create a variable name and store "Naveen".
 Print the value.*/
 
 /*let username = "Naveen";
-console.log(typeof(username));*/
+console.log(username);
+ans: Naveen*/
+
+
 
 /*Task 2
 Print the datatype of "JavaScript" using typeof.*/
-//console.log(typeof("JavaScript"))
+/*console.log(typeof("JavaScript"))
+ans: string*/
 
 /*Task 3
 Create a variable age = 22.
 Print the datatype.*/
 
 /*let age = 22;
-console.log(typeof(age));*/
+console.log(typeof(age));
+ans: number */
 
 /*Task 4
 Create a boolean variable isStudent = true.
 Print the datatype.*/
 
 /*let isStudent = confirm("Are u a student");
-console.log(typeof(isStudent));*/
+console.log(typeof(isStudent));
+ans: boolean*/
 
 /*Task 5
 Create a variable salary without assigning a value.
 Print the value.*/
 
 /*let salary;
-console.log(salary);*/
+console.log(salary);
+ans: undefined*/
 
 /*Array Tasks
 Task 6
@@ -135,25 +142,29 @@ Print the result of a + b.*/
 
 /*let a = 8;
 let b = 4;
-console.log(a+b);*/
+console.log(a+b);
+ans: 12*/
 
 /*Task 17
 Print the result of a - b.*/
 /*let a = 8;
 let b = 4;
-console.log(a-b);*/
+console.log(a-b);
+ans: 4*/
 
 /*Task 18
 Print the result of a * b.*/
 /*let a = 8;
 let b = 4;
-console.log(a*b);*/
+console.log(a*b);
+ans: 32*/
 
 /*Task 19
 Print the result of a / b.*/
-let a = 8;
+/* let a = 8;
 let b = 4;
 console.log(a/b);
+ans: 2 */
 
 /*Task 20
 Print the result of a % b.*/
